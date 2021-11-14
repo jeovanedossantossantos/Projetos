@@ -1,4 +1,4 @@
-# Esse projetos foram feitos no curso de HTML, CSS e JAVASECIPT na platarforma Udemy e também nos cursos dados por Gustavo Guanabar no youtube!!!
+# Esses projetos foram feitos no curso de HTML, CSS e JAVASCRIPT na platarforma Udemy e também nos cursos dados por Gustavo Guanabar no youtube!!!
 
 <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></code>
